@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LeChatAndroid</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_sign_in">LeChat 登录</string>
+    <string name="title_activity_sign_up">LeChat 账号注册</string>
+    <string name="sign_in">登录</string>
+    <string name="sign_up">注册</string>
+    <string name="account">账号:</string>
+    <string name="prompt_account">请输入您要注册的账号</string>
+    <string name="username">用户名:</string>
+    <string name="prompt_username">输入您的用户名</string>
+    <string name="password">密码 :</string>
+    <string name="prompt_password">请输入您的密码</string>
+
+    <string name="settings_signin_activity">服务器设置</string>
+    <string name="mine">我的</string>
+    <string name="session">会话</string>
+    <string name="contact">联系人</string>
+    <string name="nickname">昵称 :</string>
+    <string name="prompt_nickname">请输入您的昵称</string>
+    <string name="confirm_password">请确认您的密码</string>
+
+
+</resources>
